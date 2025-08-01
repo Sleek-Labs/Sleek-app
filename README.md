@@ -1,4 +1,4 @@
-# 🚀 Introducing Sleek – All your subscriptions under one roof.
+# 🚀 Sleek – Subscriptions Management With Blockchain Rewards under.
 
 <div align="center">
   <img src="assets/images/logoint.png" alt="Sleek Logo" width="200"/>
