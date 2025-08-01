@@ -228,14 +228,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📞 Support & Community
-
-### Getting Help
-- 📖 **Documentation**: Check the inline code comments
-- 🐛 **Issues**: Create an issue on GitHub
-- 💬 **Discussions**: Join our community discussions
-- 📧 **Contact**: Reach out to the development team
-
 ### Community Links
 - [GitHub Repository](https://github.com/0xdaivik/Sleek-app)
 - [Twitter](https://x.com/justsleekit)
