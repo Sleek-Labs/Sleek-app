@@ -206,6 +206,7 @@ Sleek-v1/
 
 ### 👛 Wallet Integration
 - **Multi-Wallet Support** - Phantom, Solflare, and more
+- **Email Onboarding Support** - Privy
 - **Secure Connection** - Encrypted wallet communication
 - **Balance Tracking** - Real-time SOL and token balances
 - **Transaction History** - Complete payment and reward history
