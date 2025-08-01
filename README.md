@@ -56,19 +56,23 @@ Sleek is a revolutionary mobile application that combines subscription managemen
 ## 📱 App Screenshots
 
 ### Home Dashboard
-<img width="978" height="2000" alt="home-screen" src="https://github.com/user-attachments/assets/59070039-fbae-48bb-81e3-7f325a761aac" />
+<img width="1026" height="2000" alt="home-screen-tab" src="https://github.com/user-attachments/assets/db185b90-77ee-4803-a4dd-c26e439f0544" />
+
 *Browse categories and discover subscriptions*
 
 ### Subscription Management
 <img width="2000" height="1697" alt="sleek-screen" src="https://github.com/user-attachments/assets/d75e44e5-92b4-40c3-bda4-bc740519cfe6" />
+
 *View active subscriptions and manage renewals*
 
 ### Rewards Center
 <img width="2000" height="1259" alt="reward-screen" src="https://github.com/user-attachments/assets/dc60407a-e96c-4cc3-ac53-d1b9227d8511" />
+
 *Track BONK cashback and redeem rewards*
 
 ### Account Settings
 <img width="2000" height="1964" alt="account-screen" src="https://github.com/user-attachments/assets/165835bf-0f27-47db-96a8-35c7ad36f2e8" />
+
 *Wallet connection and user preferences*
 
 ---
