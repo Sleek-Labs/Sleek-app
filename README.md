@@ -52,74 +52,6 @@ Sleek is a revolutionary mobile application that combines subscription managemen
 
 ---
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-- Node.js (v18 or higher)
-- npm or yarn
-- Expo CLI
-- Solana CLI
-- Anchor CLI
-
-### Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/0xdaivik/Sleek-app.git
-   cd Sleek-app
-   ```
-
-2. **Install dependencies**
-   ```bash
-   npm install
-   ```
-
-3. **Install Solana CLI**
-   ```bash
-   sh -c "$(curl -sSfL https://release.solana.com/v1.17.0/install)"
-   ```
-
-4. **Install Anchor CLI**
-   ```bash
-   npm install -g @coral-xyz/anchor-cli
-   ```
-
-### Development Setup
-
-1. **Start Expo development server**
-   ```bash
-   npx expo start
-   ```
-
-2. **Run on iOS simulator**
-   ```bash
-   npx expo run:ios
-   ```
-
-3. **Run on Android emulator**
-   ```bash
-   npx expo run:android
-   ```
-
-### Smart Contract Deployment
-
-1. **Build smart contracts**
-   ```bash
-   anchor build
-   ```
-
-2. **Deploy to devnet**
-   ```bash
-   anchor deploy
-   ```
-
-3. **Run tests**
-   ```bash
-   anchor test
-   ```
-
----
 
 ## 📱 App Screenshots
 
@@ -201,7 +133,6 @@ Sleek-v1/
 ### 🪪 NFT Subscriptions
 - **Unique NFTs** - Each subscription creates a unique NFT
 - **Metadata Rich** - Subscription details embedded in NFT
-- **Transferable** - Trade or gift subscription NFTs
 - **Expiry Tracking** - Visual indicators for subscription status
 
 ### 👛 Wallet Integration
