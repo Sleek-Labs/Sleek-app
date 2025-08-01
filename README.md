@@ -210,24 +210,6 @@ Sleek-v1/
 - **Balance Tracking** - Real-time SOL and token balances
 - **Transaction History** - Complete payment and reward history
 
----
-
-## 🤝 Contributing
-
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
-
-### Development Setup
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests for new functionality
-5. Submit a pull request
-
-### Code Style
-- Follow TypeScript best practices
-- Use ESLint and Prettier
-- Write comprehensive tests
-- Document new features
 
 ---
 
