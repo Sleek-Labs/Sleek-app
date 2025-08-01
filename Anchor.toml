@@ -1,0 +1,22 @@
+[features]
+seeds = false
+skip-lint = false
+
+[programs.localnet]
+sleek = "sleek123456789012345678901234567890123456789"
+
+[programs.devnet]
+sleek = "sleek123456789012345678901234567890123456789"
+
+[programs.mainnet]
+sleek = "sleek123456789012345678901234567890123456789"
+
+[registry]
+url = "https://api.apr.dev"
+
+[provider]
+cluster = "devnet"
+wallet = "~/.config/solana/id.json"
+
+[scripts]
+test = "yarn run ts-mocha -p ./tsconfig.json -t 1000000 tests/**/*.ts" 
