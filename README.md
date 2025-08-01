@@ -1,4 +1,4 @@
-# 🚀 SLEEK - Subscription Management with Blockchain Rewards
+# 🚀 Introducing Sleek – All your subscriptions under one roof.
 
 <div align="center">
   <img src="assets/images/logoint.png" alt="Sleek Logo" width="200"/>
@@ -16,13 +16,13 @@
 
 ## 📱 Overview
 
-Sleek is a revolutionary mobile application that combines subscription management with blockchain rewards. Users can browse, purchase, and manage subscriptions while earning BONK cashback rewards and receiving subscription NFTs.
+Sleek is a revolutionary mobile application that combines subscription management with Solana blockchain rewards. Users can browse, purchase, and manage subscriptions while earning $BONK cashback rewards and receiving subscription NFTs.
 
 ### ✨ Key Features
 
 - **📱 Modern Mobile UI** - Beautiful React Native interface with dark theme
 - **💳 Smart Contract Payments** - Direct SOL payments for subscriptions
-- **🪙 BONK Cashback Rewards** - Earn 10% BONK tokens on every purchase
+- **🪙 $BONK Cashback Rewards** - Earn 10% BONK tokens on every purchase
 - **🪪 Subscription NFTs** - Unique NFTs for each active subscription
 - **👛 Wallet Integration** - Seamless Solana wallet connection
 - **📊 Real-time Analytics** - Track subscriptions, rewards, and spending
@@ -124,19 +124,19 @@ Sleek is a revolutionary mobile application that combines subscription managemen
 ## 📱 App Screenshots
 
 ### Home Dashboard
-![Home Screen](assets/images/screenshots/home.png)
+<img width="978" height="2000" alt="home-screen" src="https://github.com/user-attachments/assets/59070039-fbae-48bb-81e3-7f325a761aac" />
 *Browse categories and discover subscriptions*
 
 ### Subscription Management
-![Sleek Screen](assets/images/screenshots/sleek.png)
+<img width="2000" height="1697" alt="sleek-screen" src="https://github.com/user-attachments/assets/d75e44e5-92b4-40c3-bda4-bc740519cfe6" />
 *View active subscriptions and manage renewals*
 
 ### Rewards Center
-![Rewards Screen](assets/images/screenshots/rewards.png)
+<img width="2000" height="1259" alt="reward-screen" src="https://github.com/user-attachments/assets/dc60407a-e96c-4cc3-ac53-d1b9227d8511" />
 *Track BONK cashback and redeem rewards*
 
 ### Account Settings
-![Account Screen](assets/images/screenshots/account.png)
+<img width="2000" height="1964" alt="account-screen" src="https://github.com/user-attachments/assets/165835bf-0f27-47db-96a8-35c7ad36f2e8" />
 *Wallet connection and user preferences*
 
 ---
