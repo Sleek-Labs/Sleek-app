@@ -56,7 +56,7 @@ Sleek is a revolutionary mobile application that combines subscription managemen
 ## 📱 App Screenshots
 
 ### Home Dashboard
-<img width="1026" height="2000" alt="home-screen-tab" src="https://github.com/user-attachments/assets/db185b90-77ee-4803-a4dd-c26e439f0544" />
+<img width="978" height="2000" alt="home-screen" src="https://github.com/user-attachments/assets/6f14431c-dcdf-47ed-bc89-b749cdb4a1dd" />
 
 *Browse categories and discover subscriptions*
 
