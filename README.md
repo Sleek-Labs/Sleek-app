@@ -1,4 +1,4 @@
-# 🚀 Sleek – Subscriptions Management With Blockchain Rewards under.
+# 🚀 Sleek – Subscription Management With Blockchain Rewards.
 
 <div align="center">
   <img src="assets/images/logoint.png" alt="Sleek Logo" width="200"/>
